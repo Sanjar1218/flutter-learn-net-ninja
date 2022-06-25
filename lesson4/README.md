@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-<img src="result.png" alt="Girl in a jacket" width="500" height="600">
+<img src="result.png" alt="result" width="1920" height="1080">
 
 
 ## Getting Started

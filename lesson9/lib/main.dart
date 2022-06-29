@@ -13,13 +13,12 @@ class MyApp extends StatelessWidget {
       appBar: AppBar(
         title: const Text('My App'),
       ),
-      body: const Center(
-        child: Icon(
-          Icons.mail,
-          size: 100,
-          color: Colors.green,
-        ),
-      ),
+      body: Center(
+          child: IconButton(
+        onPressed: () {},
+        icon: const Icon(Icons.add),
+        color: Colors.amber,
+      )),
     );
   }
 }
